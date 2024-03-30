@@ -15,7 +15,7 @@
 </div>
 
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-Viarety&style=flat-square&color=green" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Viarety&style=flat-square&color=green" alt=""/>
 </div>
 
 <div id="hey_there" align="center">
